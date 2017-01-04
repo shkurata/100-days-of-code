@@ -7,3 +7,11 @@ Day 0: January 3, 2017
 **Thoughts:** I tried to use the flexbox layout for my contact form's responsiveness, but Ï didn't achieved what I wanted. For now I leaving it like this.
 
 **Link to work:** [Portfolio website](http://shkurata.github.io)
+
+Day 1: January 4, 2017
+
+**Today's Progress**: I tried to make my contact form working with no success.
+
+**Thoughts:**: Maybe I should try a different approach.
+
+**Link to work:** [Portfolio website](http://shkurata.github.io)
