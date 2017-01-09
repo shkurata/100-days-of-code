@@ -23,3 +23,11 @@
 **Thoughts:** Making a contact form to send email without PHP was a little tricky, but I'm glad that I found an elegant solution. I really need to finish this portfolio website.  
 
 **Link to work:** [Portfolio website](http://shkurata.github.io)
+
+### Day 3: January 8, 2017
+
+**Today's Progress:** I added some texts to my portfolio website, changed the font and added a footer with social icons.
+
+**Thoughts:** I'm near the end. Maybe it should be better to use Bootstrap   
+
+**Link to work:** [Portfolio website](http://shkurata.github.io)
