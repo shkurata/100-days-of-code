@@ -31,3 +31,11 @@
 **Thoughts:** I'm near the end. Maybe it should be better to use Bootstrap   
 
 **Link to work:** [Portfolio website](http://shkurata.github.io)
+
+### Day 4: January 10, 2017
+
+**Today's Progress:** I added an arrow on my home page and set up fonts and spaces. I'm leaving it like this.
+
+**Thoughts:** I think there can be made a lot of improvements but for now I think it's good enough.
+
+**Link to work:** [Portfolio website](http://shkurata.github.io)
