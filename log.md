@@ -39,3 +39,11 @@
 **Thoughts:** I think there can be made a lot of improvements but for now I think it's good enough.
 
 **Link to work:** [Portfolio website](http://shkurata.github.io)
+
+### Day 5: January 12, 2017
+
+**Today's Progress:** I started the Dungeon Crawler challenge. I set up the react app and tried some logic. Tomorrow I will continue.
+
+**Thoughts:** This will really help me learning React JS.
+
+**Link to work:** [Portfolio website](http://github.com/shkurata/dungeon-crawler-game/)
