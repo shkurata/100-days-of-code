@@ -47,3 +47,11 @@
 **Thoughts:** This will really help me learning React JS.
 
 **Link to work:** [Portfolio website](http://github.com/shkurata/dungeon-crawler-game/)
+
+### Day 6: January 16, 2017
+
+**Today's Progress:** I implemented movement with arrow keys. Next step is finding a way to generate random maps.
+
+**Thoughts:** I'm really back on schedule.
+
+**Link to work:** [Portfolio website](http://github.com/shkurata/dungeon-crawler-game/)
