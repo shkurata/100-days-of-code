@@ -55,3 +55,11 @@
 **Thoughts:** I'm really back on schedule.
 
 **Link to work:** [Portfolio website](http://github.com/shkurata/dungeon-crawler-game/)
+
+### Day 7: January 20, 2017
+
+**Today's Progress:** I'm trying to make a map generating algorithm.
+
+**Thoughts:** I think this is going to be a hard challenge.
+
+**Link to work:** [Portfolio website](http://github.com/shkurata/dungeon-crawler-game/)
